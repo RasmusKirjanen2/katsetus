@@ -1,6 +1,6 @@
 git clone https://github.com/Kasparsu/mm18cats.git
 
-cd katsetus2
+cd katsetus
 
 composer install
 
