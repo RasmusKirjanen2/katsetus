@@ -21,7 +21,7 @@
                 </li>
                 @auth
                     <li class="nav-item">
-                        <a class="nav-link" href="/posts">Postitused</a>
+                        <a class="nav-link" href="/posts">Admin</a>
                     </li>
                 @endauth
 
