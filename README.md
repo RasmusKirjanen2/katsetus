@@ -1,3 +1,5 @@
+php version >= 7.3
+
 git clone https://github.com/RasmusKirjanen2/katsetus.git
 
 cd katsetus
