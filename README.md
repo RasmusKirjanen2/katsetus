@@ -1,4 +1,4 @@
-git clone https://github.com/Kasparsu/mm18cats.git
+git clone https://github.com/RasmusKirjanen2/katsetus.git
 
 cd katsetus
 
