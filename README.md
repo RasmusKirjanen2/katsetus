@@ -8,7 +8,13 @@ composer install
 
 npm install
 
+touch database/database.sqlite
+
+touch .env
+
+php artisan key:generate
 
 php artisan migrate --seed
 
 php artisan serve
+
